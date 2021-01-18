@@ -1,6 +1,8 @@
 # cqaccount
 
-A new Flutter project.
+A sample Flutter project for authentication.  
+
+<img alt="LoginPage" src="LogIn.png" width="200">
 
 ## Getting Started
 
