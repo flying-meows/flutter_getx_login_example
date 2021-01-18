@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
+import 'View/Home.dart';
 import 'View/HomeControlPage.dart';
+import 'View/HomeControlPage.dart';
+import 'View/HomeControlPage.dart';
+import 'View/LoginPage.dart';
+import 'View/LoginPage.dart';
 
 void main() {
   runApp(MyApp());
